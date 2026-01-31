@@ -1,0 +1,12 @@
+{
+  "success": false,
+  "error": "querySrv ECONNREFUSED _mongodb._tcp.fsd17.ib00v6i.mongodb.net",
+  "errorName": "Error",
+  "errorStack": "Error: querySrv ECONNREFUSED _mongodb._tcp.fsd17.ib00v6i.mongodb.net\n    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:294:17)",
+  "log": [
+    "Testing MongoDB Connection...",
+    "URI: mongodb+srv://***:***@fsd17.ib00v6i.mongodb.net/approval-workflow?retryWrites=true&w=majority&appName=FSD17",
+    "FAILED: querySrv ECONNREFUSED _mongodb._tcp.fsd17.ib00v6i.mongodb.net",
+    "Error Name: Error"
+  ]
+}
